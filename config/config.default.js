@@ -36,7 +36,7 @@ module.exports = appInfo => {
       host: 'localhost', // host
       port: '3306', // 端口号
       user: 'root', // 用户名
-      password: 'nulifendou123',
+      password: '!@#Nulifendou123',
       database: 'diary_server', // 新建的数据库名称
     },
     // 是否加载到 app 上，默认开启
